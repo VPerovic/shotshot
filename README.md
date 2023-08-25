@@ -1,0 +1,2 @@
+# shotshot
+Modern screenshot application
